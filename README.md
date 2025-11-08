@@ -1,1 +1,1 @@
-# electroVerse-25- push your assignments into the respective folders above.
+Push your assignments into the respective folders above.
